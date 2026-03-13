@@ -69,6 +69,9 @@ The API encompasses standard CRUD operations for the following endpoints:
 - `/api/teachers`
 - `/api/students`
 - `/api/courses`
+- `/api/classes`
+- `/api/attendances`
+- `/api/reports`
 - `/api/marks`
 - `/api/locations`
 - `/api/provinces`
